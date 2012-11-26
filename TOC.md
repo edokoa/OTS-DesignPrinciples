@@ -32,7 +32,7 @@
 		*	How to choose and mix families.
 	*	__Typographic scale__
 		*	Building a type scale for your project.
-	*__Building a typographic hierarchy__
+	*	__Building a typographic hierarchy__
 		*	Creating a full hierarchy.
 		*	Use of bullets, quotes (and hanging bullets & quotes)
 
