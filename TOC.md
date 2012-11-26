@@ -1,7 +1,7 @@
 # Principles of design
 ##Table of contents
 
-*Some Gestalt principles of perception
+*	Some Gestalt principles of perception
 	*__Proximity__
 		*Objets appearing close to each other are perceived as a group or unit.
 	*__Similarity__
