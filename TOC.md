@@ -21,7 +21,7 @@
 	*	__Laying out elements in a grid__
 		*	How the position of elements affects our perception (information grouping and flow).
 		*	How the difference in size (contrast) between elements creates information hierarchy.
-		*	How to change the rhythm (position, grouping and symmetry vs. asymmetry) to keep the interest of the viewer.
+		*	How to change the rhythm (position, grouping, symmetry vs. asymmetry, white space) to keep the interest of the viewer.
 
 *	__The golden ratio & The Fibonacci sequence__
 	*	How and why to use different mathematical principles to help us achieve more harmonic designs.
